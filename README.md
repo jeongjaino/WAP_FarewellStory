@@ -23,8 +23,8 @@
 
   </tr>
     <tr>
-    <td align="center">TTS 구현</td>
     <td align="center">이별 일기 작성</td>
+    <td align="center">TTS </td>
     <td align="center">노래방</td>
   </tr>
 </table>
