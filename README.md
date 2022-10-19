@@ -1,4 +1,4 @@
-<h1 align="center">2021 1학기 APP 1팀 WitT</h1>
+<h1 align="center">2021 1학기 APP 1팀 FarewellStory</h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Kotlin-1.7.20-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
